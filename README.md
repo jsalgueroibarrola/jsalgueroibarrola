@@ -18,5 +18,5 @@ Me dedico al desarrollo Android y estoy estudiando Ingeniería de Software. Me e
   - **Descripción**: Aplicación que permite guardar las redes wifis y compartirlas con el uso de QR.
   - **Tecnologías utilizadas**: CameraX, Jetpack Compose, Dagger Hilt, Material 2, Room, Android, Clean Architecture, principios SOLID, Pruebas Unitarias, Integración y Extremo a Extremo.
 - **[Pokedex 4 Generación](https://github.com/jsalgueroibarrola/Pokedex-4th-Generation)**
-  - **Descripción**: Breve explicación de lo que hace el proyecto, los problemas que resuelve y por qué es único.
+  - **Descripción**: . La aplicación permite a los usuarios explorar un catálogo de Pokémon mediante peticiones a la PokeAPI, implementando paginación para lograr un desplazamiento infinito.
   - **Tecnologías utilizadas**: Retrofit, Paging3, Dagger Hilt, Jetpack Compose, Material 3, Android, Clean Architecture.
