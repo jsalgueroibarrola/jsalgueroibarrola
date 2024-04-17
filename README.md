@@ -1,15 +1,25 @@
 ### Hola, Soy Juan Salguero Ibarrola 👋🧑🏻‍💻
 
 ### Sobre mí 📖
-Me dedico al desarrollo Android y estoy estudiando Ingeniería de Software. Me encanta desarrollar aplicaciones  y estoy siempre listo para un buen reto de programación.
+
+Me dedico al desarrollo Android y estoy estudiando Ingeniería de Software. Me encanta desarrollar aplicaciones y estoy siempre listo para un buen reto de programación.
 
 ### Tecnologías y Herramientas 🛠️
 
-<p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> </p>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.oracle.com/java/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 
 ### Proyectos Destacados ⭐
 
 - **[SplitBuy](https://play.google.com/store/apps/details?id=com.jakuru.splitbuy&hl=es_419&gl=US)**
+
   - **Descripción**: Aplicación que permite calcular cuales son tus gastos de una compra compartida.
   - **Tecnologías utilizadas**: Jetpack Compose, Material 3, Room, Dagger Hilt, Android, Clean Architecture, principios SOLID, Pruebas Unitarias, Integración y Extremo a Extremo.
   - **🤝 Colaboración**: Icono y arte realizado por [suki_arts_](https://www.instagram.com/suki_arts_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
